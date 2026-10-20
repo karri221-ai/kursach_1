@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# mypy
+.mypy_cache/
+
+# Poetry
+poetry.lock
+
+# Env
+.env
+
+# Logs
+logs/*.log
+
+# Coverage
+.coverage
+htmlcov/
